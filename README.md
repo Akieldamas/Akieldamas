@@ -5,7 +5,7 @@
   <img src="readme_bg.gif" alt="animated" />
 </p>
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
