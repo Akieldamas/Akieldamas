@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Akiel</h1>
 <h3 align="center">Passionate about creating video games, artificial intelligence, and robotics.</h3>
 
-![](https://github.com/Akieldamas/Akieldamas/blob/main/readme_bg.gif)
+<p align="center">
+  <img src="readme_bg.gif" alt="animated" />
+</p>
 
 <p align="left">
 </p>
