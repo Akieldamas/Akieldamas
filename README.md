@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akiel</h1>
-<h3 align="center">Passionate about creating video games, artificial intelligence, and robotics, I have the ambition to develop my skills in these areas.</h3>
+<h3 align="center">Passionate about creating video games, artificial intelligence, and robotics.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
