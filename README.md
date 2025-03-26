@@ -7,6 +7,7 @@ I like creating what I'm interested in, whether it's a video game, app, or anyth
 
 <p align="center">
 </p>
+
 ### 📈 Project Evolution
 
 These projects you'll find here reflect my learning and growth as a developer. Each project builds on the previous one, and my objective for each was focused on improving specific skills or concepts. Once a project is finished, I generally **don’t modify it** further, as it represents a milestone of my progress. As you look through these projects, you’ll notice different technologies used: APIs, data handling, UI/UX design, and more.
