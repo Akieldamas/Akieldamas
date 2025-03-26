@@ -1,5 +1,5 @@
 # Hi, I'm "Akiel" 
-I like creating what I'm interested in, whether it's a video game, app, or anything else that sparks my creativity.
+I like creating what I'm interested in, whether it's a video game, app, or anything else that brings me happiness.
 
 <p align="center">
   <img src="readme_bg.gif" alt="animated" />
