@@ -1,14 +1,11 @@
 # Hi, I'm "Akiel" 
 I like creating what I'm interested in, whether it's a video game, app, or anything else that brings me happiness.
 
-Current Projects:
+## Current Projects:
 - Personal AI Chatbot integrating TTS, Custom Personality, Memories (saving & editing). (PYTHON + TENSORFLOW + API)
 - MESSAGING APP (Creating my own "social media" app, similar to Discord but without servers. Message Encryption, C#, MAUI)
 - AI-MAZING Labyrinth (My 2nd year's final project, a robot capable of clearing labyrinths: Coded my own AI in C#, simulation app and training app with WPF.)
 
-<p align="center">
-  <img src="readme_bg.gif" alt="animated" />
-</p>
 <p align="center">
 </p>
 
