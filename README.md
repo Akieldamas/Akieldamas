@@ -3,7 +3,7 @@ I like creating what I'm interested in, whether it's a video game, app, or anyth
 
 <h2 align="center">Current Projects:</h2>
 <p> - Personal AI Chatbot/Assistant integrating TTS, Custom Personality, Memories (saving & editing), will be capable of performing tasks on my computer. (PYTHON + TENSORFLOW + API) </p>
-<p> - MESSAGING APP (Creating my own "social media" app, similar to Discord but without servers. Message Encryption, C#, MAUI) </p>
+<p> - MESSAGING APP (Creating my own "social media" app, similar to Discord but without servers. (Database, Message Encryption, C#, MAUI) </p>
 <p> - AI-MAZING Labyrinth (My 2nd year's final project, a robot capable of clearing labyrinths: Coded my own AI in C#, simulation app and training app with WPF.) </p>
 
 <p align="center">
