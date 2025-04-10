@@ -1,4 +1,4 @@
-# Hi, I'm "Akiel" 
+# Hi, I'm "narcissu" 
 I like creating what I'm interested in, whether it's a video game, app, or anything else that brings me happiness.
 
 <h2 align="center">Current Projects:</h2>
