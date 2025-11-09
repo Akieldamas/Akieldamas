@@ -2,8 +2,8 @@ Hi, I'm "narcissu"
 I work on many things that brings me happiness.
 
 <h3 align="left">Currently working on:</h2>
-- Integrating TTS into Mate Engine  
-- 3D Animation with Blender / SFM  
+- Integrating TTS into Mate Engine <br>
+- 3D Animation with Blender / SFM  <br>
 - Minecraft Modding using Java  
 
 <h3 align="center">Languages and Tools:</h2>
