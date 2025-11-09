@@ -1,15 +1,12 @@
 Hi, I'm "narcissu" 
 I work on many things that brings me happiness.
 
-<h2 align="center">Currently working on:</h2>
+<h3 align="left">Currently working on:</h2>
 - Integrating TTS into Mate Engine
 - 3D Animation with Blender / SF%
 - Minecraft Modding using Java
 
-<p align="center">
-</p>
-
-<h2 align="center">Languages and Tools:</h2>
+<h3 align="center">Languages and Tools:</h2>
 <p align="center"> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij idea" width="40" height="40"/> 
 <a href="https://www.sourcefilmmaker.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Source_filmmaker_logo.svg" alt="sfm" width="40" height="40"/>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
