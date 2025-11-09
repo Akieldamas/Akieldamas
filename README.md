@@ -2,9 +2,9 @@ Hi, I'm "narcissu"
 I work on many things that brings me happiness.
 
 <h3 align="left">Currently working on:</h2>
-- Integrating TTS into Mate Engine
-- 3D Animation with Blender / SF%
-- Minecraft Modding using Java
+- Integrating TTS into Mate Engine  
+- 3D Animation with Blender / SFM  
+- Minecraft Modding using Java  
 
 <h3 align="center">Languages and Tools:</h2>
 <p align="center"> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij idea" width="40" height="40"/> 
