@@ -1,5 +1,5 @@
 Hi, I'm "narcissu" 
-I work on many things that brings me happiness.
+I work on many things that bring me happiness.
 
 <h3 align="left">Currently working on:</h2>
 - Working on my games <br>
